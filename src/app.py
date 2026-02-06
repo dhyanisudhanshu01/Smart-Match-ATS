@@ -1,5 +1,9 @@
 import streamlit as st
 from engine import extract_text_from_pdf, compute_similarity, gemini_gap_analysis
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 st.set_page_config(
     page_title="Smart-Match ATS",
