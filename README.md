@@ -1,4 +1,6 @@
-🚀 Smart-Match ATS — AI-Powered Resume Optimizer (Fully Free Stack)
+🚀 Smart-Match ATS — AI-Powered Resume Optimizer
+
+Project link - https://smart-match-ats.streamlit.app/
 
 Smart-Match ATS is a Generative AI–powered Applicant Tracking System designed to bridge the gap between job seekers and recruiters. Unlike traditional keyword-based screening tools, Smart-Match ATS uses semantic similarity and LLM reasoning to understand resumes in context — not just match exact keywords.
 
@@ -100,8 +102,6 @@ Recruiter dashboard
 
 PDF resume export with AI suggestions
 
-Deployment on Streamlit Cloud
-
 Interview question generation
 
 📌 Project Goal
@@ -119,13 +119,3 @@ LLM Reasoning
 End-to-end ML App Development
 
 Built as part of my journey transitioning into Data Science & Artificial Intelligence.
-
-If you’d like next, I can help with:
-
-✅ Architecture diagram
-✅ Resume bullet points
-✅ LinkedIn project description
-✅ Interview explanation
-✅ Streamlit Cloud deployment steps
-
-Just say 👍
